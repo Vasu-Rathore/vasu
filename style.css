@@ -1,0 +1,10 @@
+#block{
+    border: 2px solid black;
+    border-color: black;
+    height: 200px;
+    width: 250px;
+    margin-top: 50px;
+    background-size: cover;
+    background-image: url(sky.jpg);
+
+}
